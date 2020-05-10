@@ -2,7 +2,7 @@
 layout: page
 title: "ukileles post title"
 date: 2020-05-10 21:44:00
-categories: some categories
+categories:
 ---
 
 # H1
