@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Playground Page"
 permalink: /playground/
+---
 
 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
