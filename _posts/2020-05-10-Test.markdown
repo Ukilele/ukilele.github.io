@@ -3,8 +3,59 @@ title: "Test"
 date: 2020-05-10
 ---
 
-# Header
-First paragraph
+# Test Post
+This is the first paragraph, that should show up in the main page.
 
-## sub
-sub
+## Markdown
+
+### Links
+[Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#html)
+
+### Inline HTML
+Seems like you can write inline html.
+
+### Images
+Here's our logo (hover to see the title text):
+
+Inline-style: 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+Reference-style: 
+![alt text][logo]
+
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+
+### Code highlighting
+Inline `code` has `back-ticks around` it.
+Code blocks:
+```javascript
+var s = "JS syntax highlighting";
+alert(s);
+```
+```python
+s = "python syntax highligthing";
+print s
+```
+
+```c
+static int y = SOME_MACRO;
+int main() {
+  int x = 4 + y;
+  printf("x = %i\n", x);
+}
+```
+```cpp
+#include <iostream>
+int main() {
+  std::cout << "Value " << (1 + 2) << '\n';
+}
+```
+
+
+{% highlight ruby %}
+def print_hi(name)
+  puts "Hi, #{name}"
+end
+print_hi('Tom')
+#=> prints 'Hi, Tom' to STDOUT.
+{% endhighlight %}
