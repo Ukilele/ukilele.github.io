@@ -18,6 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+#The "texture" key in _config.yml is used to customize the theme data.
+texture:
+  title: Blog++
+  tagline: Blogging about C++
+  date_format: "%b %-d, %Y"
+
 title: Blog++
 email: kilis-mail@web.de
 description: >- # this means to ignore newlines until "baseurl:"
@@ -29,19 +35,10 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 # theme: jekyll-theme-cayman
+theme: texture
 remote_theme: thelehhman/texture
 plugins:
   - jekyll-feed
-
-#The "texture" key in _config.yml is used to customize the theme data.
-texture:
-  title: Blog++
-  tagline: Blogging about C++
-  date_format: "%b %-d, %Y"
-
-  #social_links:
-  #  twitter: name
-  #  github:  name
 
 # Exclude from processing.
 # The following items will not be processed, by default.
