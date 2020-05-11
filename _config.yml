@@ -33,6 +33,16 @@ remote_theme: thelehhman/texture
 plugins:
   - jekyll-feed
 
+#The "texture" key in _config.yml is used to customize the theme data.
+texture:
+  title: Blog++
+  tagline: Blogging about C++
+  date_format: "%b %-d, %Y"
+
+  #social_links:
+  #  twitter: name
+  #  github:  name
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
