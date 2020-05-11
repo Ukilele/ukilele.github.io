@@ -3,5 +3,4 @@ title: "Polymorphism Decision Table"
 date: 2020-05-11
 ---
 
-# Polymorphism Decision Table
-![](/assets/PolymorphismDecisionTable.png)
+
