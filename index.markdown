@@ -4,11 +4,10 @@
 background: '/assets/titleimage.jpg'
 ---
 
-<ul>
+
   {% for post in site.posts %}
-    <li>
-      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-      {{ post.excerpt }}
-    </li>
+    <p>
+      <h2><a href="{{ post.url }}">{{ post.excerpt }}</a></h2>
+    </p>
   {% endfor %}
-</ul>
+
