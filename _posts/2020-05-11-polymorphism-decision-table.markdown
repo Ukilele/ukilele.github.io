@@ -4,7 +4,6 @@ date: 2020-05-11
 ---
 
 # Polymorphism Decision Table
-
 A lot of programming languages (e.g. Java and C#) let a programmer achieve polymorphism via a base class
 with pure virtual functions and derived classes that override these functions. C++ also provides this kind of polymorphism.
 But C++ comes with additional ways to achieve polymorphism (**[variant](#variant)**, **[type erasure](#type-erasure)** and **[polymorphic_value](#polymorphic-value)**).
