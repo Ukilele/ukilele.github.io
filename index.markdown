@@ -8,6 +8,7 @@ background: '/assets/titleimage.jpg'
   {% for post in site.posts %}
     <li>
       <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      {{ post.excerpt.split("</h1>")[1] }}
     </li>
   {% endfor %}
 </ul>
