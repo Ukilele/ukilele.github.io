@@ -8,7 +8,7 @@ background: '/assets/titleimage.jpg'
   {% for post in site.posts %}
     <li>
       <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-      {{ post.excerpt | truncatewords: 20 }}
+      {{ post.content | truncatewords: 20 }}
     </li>
   {% endfor %}
 </ul>
