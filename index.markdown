@@ -7,7 +7,7 @@ background: '/assets/titleimage.jpg'
 <ul style="list-style-type: none;">
   {% for post in site.posts %}
     <li>
-      <a href="{{ post.url }}">{{ post.excerpt }}</a>
+      <a href="{{ post.url }}">{{ post.excerpt | strip_html | truncatewords: 20 }}</a>
     </li>
   {% endfor %}
 </ul>
