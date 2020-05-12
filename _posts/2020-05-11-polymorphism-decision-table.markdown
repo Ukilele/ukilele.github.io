@@ -152,20 +152,20 @@ This decision-table is by no means complete. There exist further criterions that
 Yet it is a helpful guide when one feels overwhelmed by the flexibility of C++.
 
 
-### Further Sources
+## Further Sources
 
-#### General
+### General
 - [[MUC++] Klaus Iglberger - Embrace No Paradigm Programming!](https://www.youtube.com/watch?v=fwXaRH5ffJM)
 
-#### Variant
+### Variant
 - [Modern C++ Features - std\::variant and std::visit](https://arne-mertz.de/2018/05/modern-c-features-stdvariant-and-stdvisit/)
 - [Everything You Need to Know About std::variant from C++17]( https://www.bfilipek.com/2018/06/variant.html)
 
-#### Type Erasure
+### Type Erasure
 - [Better Code: Runtime Polymorphism - Sean Parent](https://www.youtube.com/watch?v=QGcVXgEVMJg)
 - [C++Now 2018: Louis Dionne "Runtime Polymorphism: Back to the Basics"](https://www.youtube.com/watch?v=OtU51Ytfe04)
 - [CppCon 2019: Arthur O'Dwyer "Back to Basics: Type Erasure"](https://www.youtube.com/watch?v=tbUCHifyT24)
 
-#### Polymorphic Value
+### Polymorphic Value
 - [https://github.com/jbcoe/polymorphic_value](https://github.com/jbcoe/polymorphic_value)
 
