@@ -73,7 +73,7 @@ For that purpose I created a decision-table that tells you based on which criter
     <td>Closed</td>
     <td>Reference</td>
     <td>No</td>
-    <td>TER, variant&ltSP&gt</td>
+    <td>TER, variant&lt;SP&gt;</td>
   </tr>
   <tr>
     <td>Closed</td>
@@ -101,14 +101,14 @@ For that purpose I created a decision-table that tells you based on which criter
     <td>Open</td>
     <td>Reference</td>
     <td>No</td>
-    <td>variant&ltSP&gt</td>
+    <td>variant&lt;SP&gt;</td>
   </tr>
   <tr>
     <td>Closed</td>
     <td>Open</td>
     <td>Reference</td>
     <td>Yes</td>
-    <td>SP+HVP, variant&ltSP&gt</td>
+    <td>SP+HVP, variant&lt;SP&gt;</td>
   </tr>
   <tr>
     <td>Open</td>
