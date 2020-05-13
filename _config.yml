@@ -35,16 +35,6 @@ plugins:
   - jekyll-feed
 
 
-
-plainwhite:
-  name: Kilian Henneberger
-  tagline: Blogging about C++
-  date_format: "%b %-d, %Y"
-
-  social_links:
-    twitter: todo
-    github: Ukilele
-
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
