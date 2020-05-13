@@ -31,7 +31,7 @@ github_username:  Ukilele
 disqus:
     # Leave shortname blank to disable comments site-wide.
     # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
-    shortname: https-ukilele-github-io.disqus.com
+    shortname: https-ukilele-github-io
 
 # Build settings
 theme: minima
