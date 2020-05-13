@@ -23,9 +23,15 @@ email: kilis-mail@web.de
 description: >- # this means to ignore newlines until "baseurl:"
   Blogging about C++
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://ukilele.github.io/"
 
 github_username:  Ukilele
+
+# Disqus Comments
+disqus:
+    # Leave shortname blank to disable comments site-wide.
+    # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
+    shortname: https-ukilele-github-io.disqus.com
 
 # Build settings
 theme: minima
