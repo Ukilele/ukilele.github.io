@@ -30,21 +30,20 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 #theme: jekyll-theme-cayman
-remote_theme: thelehhman/plainwhite-jekyll
+theme: plainwhite
 plugins:
   - jekyll-feed
 
-theme: plainwhite
+
 
 plainwhite:
-  name: Adam Denisov
-  tagline: Developer. Designer
+  name: Kilian Henneberger
+  tagline: Blogging about C++
   date_format: "%b %-d, %Y"
 
   social_links:
-    twitter: thelehhman
-    github: thelehhman
-    linkedIn: in/thelehhman # format: locale/username
+    twitter: todo
+    github: Ukilele
 
 # Exclude from processing.
 # The following items will not be processed, by default.
