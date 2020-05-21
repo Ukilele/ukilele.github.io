@@ -14,4 +14,4 @@ Occasionally you can find me hanging out on [Slack](cpplang.slack.com).
 
 #### Contact me
 
-[kilis-mail@web.de](kilis-mail@web.de)
+[kilis-mail@web.de](mailto:kilis-mail@web.de)
