@@ -1,3 +1,3 @@
-# [Blog++](https://ukilele.github.io)
+# [ukilele.github.io](https://ukilele.github.io)
 
-A blog about [C++](https://isocpp.org/). Generated with [Github Pages](https://pages.github.com/).
+A blog mostly about [C++](https://isocpp.org/). Generated with [Github Pages](https://pages.github.com/).
