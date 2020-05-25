@@ -18,9 +18,7 @@ styles and html-code.
 
 <div>
 
-
 <h1>Polymorphism Decision Table</h1>
-
 
 <section>
 
@@ -32,7 +30,7 @@ styles and html-code.
       <li>May, 2019</li>
     </ul>
   </nav>
-  
+
   <article>
     Based on four categories the Polymorphism Decision Table shows us when we can use which kind of polymorphism in C++.
   </article>
