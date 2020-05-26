@@ -16,6 +16,7 @@ styles and html-code.
 -->
 
 
+<!--Polymorphism Decision Table-->
 <div>
 
 <h1>Polymorphism Decision Table</h1>
@@ -33,6 +34,33 @@ styles and html-code.
 
   <article>
     Based on four categories the Polymorphism Decision Table shows us when we can use which kind of polymorphism in C++.
+  </article>
+
+</section>
+
+</div>
+
+
+<br/>
+
+
+<!--Execute Around Pointer-->
+<div>
+
+<h1>Execute Around Pointer</h1>
+
+<section>
+
+  <nav>
+    <ul>
+      <li><a href="/assets/slides/Core%20C++%20-%20May%202019%20-%20ExecuteAroundPointer.pdf">Slides</a></li>
+      <li><a href="https://www.meetup.com/de-DE/CoreCpp/events/270703090/">Core C++</a></li>
+      <li>May, 2019</li>
+    </ul>
+  </nav>
+
+  <article>
+    The Execute Around Pointer is a simple, general and efficient solution to the problem of wrapping calls to an object in pairs of prefix and suffix code.
   </article>
 
 </section>
