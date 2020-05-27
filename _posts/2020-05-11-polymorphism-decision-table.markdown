@@ -143,8 +143,8 @@ For that purpose I created a decision-table that tells you based on which criter
 
 
 PV = polymorphic_value  
-TER = type erasue with reference semantics  
-TEV = type erasue with value semantics  
+TER = type erasure with reference semantics  
+TEV = type erasure with value semantics  
 SP = smart pointer  
 HVP = hand-written visitor pattern
 
