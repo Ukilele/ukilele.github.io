@@ -66,3 +66,34 @@ styles and html-code.
 </section>
 
 </div>
+
+
+<br/>
+
+
+<!--C++ is a resource-safe language-->
+<div>
+
+<h1>C++ is a resource-safe language</h1>
+
+<section>
+
+  <nav>
+    <ul>
+	  <li><a href="https://www.youtube.com/watch?v=UmdU-y50tW0">Video</a></li>
+      <li><a href="/assets/slides/embo++%20-%20C++%20is%20a%20resource-safe%20language.pdf">Video</a></li>
+      <li><a href="https://www.embo.io//">emBO++ 2021</a></li>
+      <li>March, 2021</li>
+    </ul>
+  </nav>
+
+  <article>
+    When I started learning C++, I have been told many times that it is a difficult to learn programming language.
+For several reasons. One reason was, that it does not have a garbage collector or other kind of built-in resource management.
+During my increasing experience with C++ I was pleased to recognize that quite the opposite is the case.
+C++ has all the tools at hand to write resource safe code.
+  </article>
+
+</section>
+
+</div>
