@@ -81,7 +81,7 @@ styles and html-code.
   <nav>
     <ul>
 	  <li><a href="https://www.youtube.com/watch?v=UmdU-y50tW0">Video</a></li>
-      <li><a href="/assets/slides/embo++%20-%20C++%20is%20a%20resource-safe%20language.pdf">Video</a></li>
+      <li><a href="/assets/slides/embo++%20-%20C++%20is%20a%20resource-safe%20language.pdf">Slides</a></li>
       <li><a href="https://www.embo.io//">emBO++ 2021</a></li>
       <li>March, 2021</li>
     </ul>
