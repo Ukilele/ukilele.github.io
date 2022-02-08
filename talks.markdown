@@ -98,3 +98,30 @@ C++ has all the tools at hand to write resource safe code.
 </section>
 
 </div>
+
+
+<br/>
+
+
+<!--Deduction Guides for Range Adaptors-->
+<div>
+
+<h1>Deduction Guides for Range Adaptors</h1>
+
+<section>
+
+  <nav>
+    <ul>
+      <li><a href="/assets/slides/UG%20Aachen%20-%20Jan%202022%20-%20Deduction%20Guides%20for%20Range%20Adaptors.pdf">Slides</a></li>
+      <li><a href="https://www.meetup.com/de-DE/C-User-Gruppe-Aachen/events/282894888/">C++ UG Aachen</a></li>
+      <li>Jan, 2022</li>
+    </ul>
+  </nav>
+
+  <article>
+    A deep dive into the Deduction Guides of range adaptors.
+  </article>
+
+</section>
+
+</div>
