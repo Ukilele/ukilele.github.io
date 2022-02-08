@@ -53,6 +53,7 @@ styles and html-code.
 
   <nav>
     <ul>
+	  <li><a href="https://www.youtube.com/watch?v=4HnwuR_bFqs">Video</a></li>
       <li><a href="/assets/slides/Core%20C++%20-%20May%202019%20-%20ExecuteAroundPointer.pdf">Slides</a></li>
       <li><a href="https://www.meetup.com/de-DE/CoreCpp/events/270703090/">Core C++</a></li>
       <li>May, 2019</li>
