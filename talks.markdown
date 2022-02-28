@@ -28,7 +28,7 @@ styles and html-code.
       <li><a href="https://youtu.be/vzi0lTVyb-g?t=1730">Video</a></li>
       <li><a href="/assets/slides/C++%20London%20-%20May%202019%20-%20PolymorphismDecisionTable.pdf">Slides</a></li>
       <li><a href="https://www.meetup.com/de-DE/CppLondon/events/268533324/">C++ London</a></li>
-      <li>May, 2019</li>
+      <li>May, 2020</li>
     </ul>
   </nav>
 
@@ -56,7 +56,7 @@ styles and html-code.
 	  <li><a href="https://www.youtube.com/watch?v=4HnwuR_bFqs">Video</a></li>
       <li><a href="/assets/slides/Core%20C++%20-%20May%202019%20-%20ExecuteAroundPointer.pdf">Slides</a></li>
       <li><a href="https://www.meetup.com/de-DE/CoreCpp/events/270703090/">Core C++</a></li>
-      <li>May, 2019</li>
+      <li>May, 2020</li>
     </ul>
   </nav>
 
