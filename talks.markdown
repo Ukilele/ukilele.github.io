@@ -112,14 +112,20 @@ C++ has all the tools at hand to write resource safe code.
 
   <nav>
     <ul>
-      <li><a href="/assets/slides/UG%20Aachen%20-%20Jan%202022%20-%20Deduction%20Guides%20for%20Range%20Adaptors.pdf">Slides</a></li>
-      <li><a href="https://www.meetup.com/de-DE/C-User-Gruppe-Aachen/events/282894888/">C++ UG Aachen</a></li>
-      <li>January, 2022</li>
+      <li><a href="/assets/slides/embo++2022%20-%20Deduction%20Guides%20for%20Range%20Adaptors.pdf">Slides</a></li>
+	  <li><a href="https://www.embo.io">emBO++ 2022</a></li>
+      <li>March, 2022</li>
     </ul>
   </nav>
 
   <article>
-	A deep dive into the Deduction Guides of range adaptors.
+	The Ranges library is part of the STL since C++20.
+A lot of teaching material is available online already.
+Even though most of this teaching material uses range adaptors (e.g. std::views::transform)
+to adapt both lvalue and rvalue ranges, the underlying mechanism is mentioned briefly at most.
+This talk will close this knowledge gap. 
+It will explain the differences between adapting an lvalue and an rvalue,
+and how the range adaptors deduction guides, while not at all visible to a user, make the key difference.
   </article>
 
 </section>
