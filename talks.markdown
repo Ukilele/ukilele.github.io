@@ -131,3 +131,31 @@ and how the range adaptors deduction guides, while not at all visible to a user,
 </section>
 
 </div>
+
+
+<br/>
+
+
+<!--Brace Yourselves, std::to_underlying is coming-->
+<div>
+
+<h1>Brace Yourselves, std::to_underlying is coming</h1>
+
+<section>
+
+  <nav>
+    <ul>
+      <li><a href="/assets/slides/MUC++-April%202022%20-%20BraceYourselves_std_to_underlying_is_coming.pdf">Slides</a></li>
+      <li><a href="https://www.meetup.com/de-DE/MUCplusplus/events/284825082/">MUC++</a></li>
+      <li>April, 2022</li>
+    </ul>
+  </nav>
+
+  <article>
+	C++23 will standardize the utility function std::to_underlying. This talk will present how this addition to the STL can break your
+existing code base, as well as present solutions for how to solve this. 
+  </article>
+
+</section>
+
+</div>
