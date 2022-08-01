@@ -112,6 +112,7 @@ C++ has all the tools at hand to write resource safe code.
 
   <nav>
     <ul>
+	  <li><a href="https://www.youtube.com/watch?v=k0GdNrrO6HE">Video</a></li>
       <li><a href="/assets/slides/embo++2022%20-%20Deduction%20Guides%20for%20Range%20Adaptors.pdf">Slides</a></li>
 	  <li><a href="https://www.embo.io">emBO++ 2022</a></li>
       <li>March, 2022</li>
