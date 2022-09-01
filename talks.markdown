@@ -160,3 +160,31 @@ existing code base, as well as present solutions for how to solve this.
 </section>
 
 </div>
+
+
+<br/>
+
+
+<!--75 STL Headers in under 10 minutes-->
+<div>
+
+<h1>75 STL Headers in under 10 minutes</h1>
+
+<section>
+
+  <nav>
+    <ul>
+      <li><a href="/assets/slides/Meeting%20C++-UG-August2022-75%20STL%20Headers%20in%20under%2010%20minutes.pdf">Slides</a></li>
+      <li><a href="https://www.meetup.com/meeting-cpp-online/events/287010750/">Meeting C++ online</a></li>
+      <li>August, 2022</li>
+    </ul>
+  </nav>
+
+  <article>
+	In C++20, the STL consists of 75 headers (excluding deprecated headers and those from the C standard library).
+	During this lightning talk we will rush trough all of them and get a brief overview of what they contain.
+  </article>
+
+</section>
+
+</div>
