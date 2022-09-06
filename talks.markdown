@@ -174,6 +174,7 @@ existing code base, as well as present solutions for how to solve this.
 
   <nav>
     <ul>
+	  <li><a href="https://www.youtube.com/watch?v=wjvzrcOTvIM">Video</a></li>
       <li><a href="/assets/slides/Meeting%20C++-UG-August2022-75%20STL%20Headers%20in%20under%2010%20minutes.pdf">Slides</a></li>
       <li><a href="https://www.meetup.com/meeting-cpp-online/events/287010750/">Meeting C++ online</a></li>
       <li>August, 2022</li>
